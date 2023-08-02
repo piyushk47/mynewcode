@@ -1,0 +1,12 @@
+.xyz{
+    font-size: 20px !important;
+    color: rgb(42, 138, 87) ;
+}
+.abc{
+    color: rgb(55, 116, 96);
+    font-size: 30px;
+}
+#myid{
+    color: greenyellow;
+    background-color: red;
+}
